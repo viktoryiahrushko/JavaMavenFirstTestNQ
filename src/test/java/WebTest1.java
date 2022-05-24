@@ -9,6 +9,7 @@ public class WebTest1 {
     @Test
     public void testMenuStartTitle() throws InterruptedException {
 
+
         String chromeDriver = "webdriver.chrome.driver";
         String driverPath = "/Users/dimkanevidimka/Desktop/chromedriver";
         String url = "http://www.99-bottles-of-beer.net/";
