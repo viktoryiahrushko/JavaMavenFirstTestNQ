@@ -5,7 +5,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class WebTest1 {
+public class WebTest1_1 {
     @Test
     public void testMenuStartTitle() throws InterruptedException {
 
